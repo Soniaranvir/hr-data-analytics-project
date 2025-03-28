@@ -1,5 +1,10 @@
 # HR Data Analytics Project
 
+<img width="1437" alt="Screenshot 2025-03-27 at 10 37 00 PM" src="https://github.com/user-attachments/assets/c3ce2c87-605f-4dc5-99cc-73d2e9e48e84" />
+<img width="1430" alt="Screenshot 2025-03-27 at 10 37 14 PM" src="https://github.com/user-attachments/assets/20f6f7d7-6b98-4254-b551-69e2ac609c77" />
+<img width="1433" alt="Screenshot 2025-03-27 at 10 37 54 PM" src="https://github.com/user-attachments/assets/2025257f-1e4c-49db-a3ab-74d8b645045c" />
+
+
 ## Overview
 This project utilizes four essential data analysis tools: **Power BI, Tableau Desktop, SQL, and Excel** to analyze HR data from a medical components manufacturing company. The primary objective is to develop key performance indicators (KPIs) and visualizations that help the HR department monitor workforce trends and employee attrition.
 
